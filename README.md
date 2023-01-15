@@ -8,7 +8,7 @@ To run the app:
 
 ---
 
-<center>University of Helsinki Certificate</center>
+<p style="text-align:center">University of Helsinki Certificate</p>
 
 ![UniversityOfHelsinkiCertificate](./certificate-fullstack.png)
 Certificate link: https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/db11201c58b3a6f8a709c8fac2e014e4
